@@ -27,14 +27,14 @@ const RESOURCES = {"assets/assats/CodeCraftLogo.jpg": "bbafe448b99a35a57ef9540bb
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "37f4590ba4b42e9e752d9329d49a4ab9",
+"flutter_bootstrap.js": "2b3dfb9273cd74650414b9ea27b68866",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "eba496a867977bc38f0ee30fa0230229",
 "/": "eba496a867977bc38f0ee30fa0230229",
-"main.dart.js": "137c42ab8310abd65e7627986e827b41",
+"main.dart.js": "57b65f510a0bdf5eb4f48b3d9bba7e6f",
 "manifest.json": "60ea75d9cc76e955c6baeb02ec54ec2b",
 "version.json": "761f1852d0fca4ee2cf47086d4abeaa1"};
 // The application shell files that are downloaded before a service worker can
